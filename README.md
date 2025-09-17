@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Stan5597
-- 👀 I’m interested in BI/Data Analytics
-- 🌱 I’m currently a senior at the University of Massachusetts Boston studying IT/BI 
-- 💞️ I’m looking to collaborate on relevant IT projects that will exposed me to real word case scenarios.
-- 📫 How to reach me https://www.linkedin.com/in/stanley-jean-jacques-683899121/
+# 👋 Hi, I’m Stanley Jean (@Stan5597)
 
-<!---
-Stan5597/Stan5597 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔐 **Cloud Security & Data Engineering Enthusiast**  
+- 👀 Interested in **Cloud Security, Data Engineering, and Cloud Architecture**  
+- 🌱 Currently working as a **Cloud Data Engineer @ KPI**  
+- 💞️ Looking to collaborate on **real-world IT projects** that provide exposure to cloud infrastructure, data pipelines, and security case scenarios  
+- 📚 Preparing for **AWS Security Specialty** while building **multi-cloud hands-on projects**  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/stanley-jean-jacques-683899121/)
+
+---
+
+### 🛠️ Tech & Tools
+- **Cloud Platforms:** AWS ☁ | Azure | GCP  
+- **Security:** IAM, KMS, GuardDuty, Security Hub, Compliance Frameworks  
+- **Data Engineering:** Terraform, Python, SQL, Airflow, dbt, Spark  
+- **DevOps:** Docker, GitHub Actions, CI/CD  
+
+---
+
+### 📂 Featured Projects
+- 🚀 [Multi-Cloud Secure Data Pipeline](https://github.com/Stan5597/multi-cloud-arch) – Terraform + AWS/Azure/GCP  
+- 🔐 [Cloud Security Labs](#) – Incident response, threat detection, IAM hardening (coming soon)  
+
+---
+
+### 📊 GitHub Stats
+![Stanley's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stan5597&show_icons=true&theme=tokyonight)
+
+---
+
